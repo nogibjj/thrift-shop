@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Thrift Shop
 
-## References
+This tests the deployment of LLMOps "grandpa style", i.e. shows targets on multiple platforms and capability via CI/CD.  Focused initially on [Candle](https://github.com/huggingface/candle).
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+
